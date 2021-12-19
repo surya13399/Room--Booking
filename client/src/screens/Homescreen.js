@@ -121,6 +121,9 @@ function Homescreen() {
           </div>
         </div>
       </div>
+<div align="center">
+               <h3> Please, choose the Start and End date For Room Booking!!</h3>
+              </div>
 
       <div className="row justify-content-center">
         {loading ? (
